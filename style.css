@@ -135,7 +135,7 @@ img {
     }
  }
 
- 
+
 @media screen and (max-width:480px){
     .container{
         margin: auto;
@@ -150,3 +150,12 @@ img {
         width: 100%;
     }
 }
+
+/* bonus */
+
+@media screen and (min-widht:769px) and (max-width:1200px){
+    .steps{
+        width: 100%;
+    }
+}
+
